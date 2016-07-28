@@ -1,0 +1,203 @@
+.imgl{
+
+	width: 250px;
+	height: 50px;
+}
+.img1{
+
+	width: 100%;
+}
+
+.img002{
+	margin: 20px 10px;
+	width: 280px;
+	height: 280px;
+	padding: 20px;
+	
+}	
+
+.img00{
+	
+	margin: 20px 10px;
+	width: 165px;
+	height:185px;
+
+}	
+
+
+.img22{
+	position: relative;
+	top: 240px;
+	left:400px;
+	right: 70px;
+	width: 90px;
+	height: 90px;
+}
+
+
+hr{
+	border: 0; 
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #333; 
+	height:0%;
+	width: 50%;
+}
+.amarillo{
+	background-color: #FACC2E;
+	width:1335px; 
+	height:220px;
+	margin-left: 15px;
+}
+
+
+.banner{
+	background-image: url("../img/banner.jpg");
+}
+
+
+.CINEMA{
+	margin: 20px 20px 10px -30px;
+
+}
+a{
+	text-decoration: none;
+	color:#E5E3E3;
+
+}
+.imp2{
+	margin:20px 30px 10px -30px; 
+
+}
+
+.footer{
+	background-color: #e9e8e6;
+	padding: 30px;
+	margin-top:30px; 
+	width: 101.5%;
+	height: 250px;
+	color: #b8b8b9;
+	font-size: 11px;
+	font-style: verdana;
+}
+
+
+.caj1 {
+	width: 400px;
+	height: 400px;
+	margin: 25px;
+	font-family: Arial;
+	color: #D3D3DA;
+	font-size: 14px;
+	margin-left: 900px;
+	margin-top:-50px;
+	margin-bottom: 100px;
+}
+.pos {
+	display: inline-block;
+}
+.inline {
+	display: inline;
+}
+.letrab {
+	font-size: 40px;
+	padding-bottom: 15px;
+	border-bottom:3px solid grey;
+	margin-bottom: 15px;
+}
+.botonverde {
+	font-size: 16px;
+	color: #38B749;
+	border: 3px solid #38B749;
+	border-radius: 10px;
+	padding: 10px;
+	margin-right:10px;
+}
+.marizq {
+	margin-right: 60px;
+}
+.pad {
+	padding: 7px 0px;
+}
+.boton {
+	font-size: 18px;
+	padding: 15px;
+	margin:10px;
+	border-radius: 5px;
+	width: 250px;
+}
+.yellow {
+	background-color: #CBA421;
+	color: white;
+}
+.orange {
+	background-color: #C4710C;
+	color:white;
+}
+.iconito {
+	height: 13px;
+	width: 18px;
+	margin-right: 5px;	
+}
+input{
+	margin:20px 30px 10px -30px; 
+}
+
+.searchform {
+margin:20px 20px 10px -30px; 
+
+display: inline-block;
+
+zoom: 1; /* ie7 hack para display:inline-block */
+
+*display: inline;
+
+border: solid 1px #d2d2d2;
+
+padding: 3px 5px;
+
+}
+
+.searchform input {
+margin:20px 20px 10px -30px; 
+
+font: normal 12px/100% Arial, Helvetica, sans-serif;
+
+}
+
+.searchform .searchfield {
+margin:20px 20px 10px -30px; 
+
+background: #fff;
+
+padding: 6px 6px 6px 8px;
+
+width: 202px;
+
+border: solid 1px #bcbbbb;
+
+outline: none;
+
+
+}
+
+.searchform .searchbutton {
+margin:20px 20px 10px -30px; 
+
+color: #fff;
+
+border: solid 1px #494949;
+
+font-size: 11px;
+
+height: 50px;
+
+width: 50px;
+
+text-shadow: 0 1px 1px rgba(0,0,0,.6);
+
+}
+
+
+
+
+
